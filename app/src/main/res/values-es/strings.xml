@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimalsPedia</string>
+    // Layout
+    <string name="pilih_gambar">Seleccione una imagen para abrir la galería</string>
+    <string name="daftar_ras_judul">Lista de razas animales</string>
+    <string name="go_back">Devolución</string>
+    <string name="kucing">Gato</string>
+    <string name="anjing">Perro</string>
+    <string name="burung">Pájaro</string>
+    <string name="kucing_list_title">Lista de razas de gatos</string>
+    <string name="anjing_list_title">Lista de razas de perros</string>
+    <string name="burung_list_title">Lista de razas de aves</string>
+    // Data kucing
+    <string name="angora_nama">Angora</string>
+    <string name="angora_asal">Turco</string>
+    <string name="angora_deskripsi">OOriginario de Ankara, Turquía con un característico cabello largo y cabello suave</string>
+    <string name="bengal_nama">Bengalí</string>
+    <string name="bengal_asal">Inglés</string>
+    <string name="bengal_deskripsi">Es el resultado de un cruce entre un gato leopardo asiático y un gato doméstico británico</string>
+    <string name="birmani_nama">Birmania</string>
+    <string name="birmani_asal">Burma/Myanmar</string>
+    <string name="birmani_deskripsi">Se dice que inicialmente una raza de gatos que solía acompañar a los monjes que se asentaban en los templos de Birmania.</string>
+    <string name="persia_nama">Persa</string>
+    <string name="persia_asal">Irán</string>
+    <string name="persia_deskripsi">Un gato de pelo largo con una cara redonda y una nariz nulosa. Originario de Irán y luego importado a Italia</string>
+    <string name="siam_nama">Siamés</string>
+    <string name="siam_asal">Tailandia</string>
+    <string name="siam_deskripsi">Gato derivado de Wichian Maat (gato tailandés) con características de cuerpo largo y delgado, cara oblonga, orejas anchas y ojos azulados</string>
+    <string name="siberia_nama">Siberian</string>
+    <string name="siberia_asal">Ruso</string>
+    <string name="siberia_deskripsi">Gato doméstico ruso con pelaje tupido y cuerpo grande pero muy ágil y famoso por su capacidad de salto</string>
+    // Data anjing
+    <string name="bulldog_nama">Buldog</string>
+    <string name="bulldog_asal">Inglés</string>
+    <string name="bulldog_deskripsi">Los perros populares son conocidos por sus cuerpos gordos musculosos, caras enmarañadas en forma de tela y narices de nudos.</string>
+    <string name="husky_nama">Husky</string>
+    <string name="husky_asal">Alaska, Siberia, Finlandia (zonas nevadas)</string>
+    <string name="husky_deskripsi">Una raza especial de perro originalmente utilizada para tirar de motos de nieve</string>
+    <string name="kintamani_nama">Kintamani</string>
+    <string name="kintamani_asal">Indonesio</string>
+    <string name="kintamani_deskripsi">TLa raza de perro original de la isla de Bali</string>
+    <string name="samoyed_nama">Samoyedo</string>
+    <string name="samoyed_asal">Ruso</string>
+    <string name="samoyed_deskripsi">Los perros originarios de Siberia fueron originalmente utilizados comúnmente para proteger el ganado por la tribu Samoyeda.</string>
+    <string name="shepherd_nama">Pastor</string>
+    <string name="shepherd_asal">Alemán</string>
+    <string name="shepherd_deskripsi">Perros inteligentes y poderosos, ahora ampliamente utilizados como perros guardianes, guardaespaldas y perros policía (K9)</string>
+    <string name="shiba_nama">Shiba</string>
+    <string name="shiba_asal">Japonés</string>
+    <string name="shiba_deskripsi">Los perros del área de Shiba son ágiles y ágiles, por lo que originalmente fueron ampliamente utilizados para la caza.</string>
+    //Data Burung
+    <string name="cendrawasih_nama" >Cendrawasih</string>
+    <string name="crndrawasih_asal" >Este de Indonesia</string>
+    <string name="cendrawasih_deskripsi" >El ave del paraíso (Paradisaeidae) es apodada el ave del paraíso debido a su belleza que es famosa en todo el mundo.</string>
+    <string name="flamingo_nama" >Flaminggo</string>
+    <string name="flamingo_asal" >América</string>
+    <string name="flamingo_deskripsi" >Los flamencos son una especie de ave de patas largas que vive en grupos.</string>
+    <string name="golden_pheasant_nama" >Golden Pheasant</string>
+    <string name="golden_pheasant_asal" >China</string>
+    <string name="golden_pheasant_deskripsi" >El faisán dorado es una especie de ave paseriforme de la familia Neognata faisánido galleriforme, una de las dos especies del género Chrysolophus.</string>
+    <string name="macau_deskripsi">El ave de Macao es una especie de ave nativa del continente americano precisamente en América del Sur en la selva amazónica hay miles de especies de aves de macao.</string>
+    <string name="macau_nama">Macao</string>
+    <string name="macau_asal" >América del Sur</string>
+    <string name="merak_nama" >Pavo Real</string>
+    <string name="merak_asal" >India</string>
+    <string name="merak_deskripsi" >Los pavos reales son nativos de la India.Hay varias especies de aves como el pavo real verde, el pavo real blanco, el pavo real rojo y el pavo real azul.</string>
+    <string name="tucan_nama" >Tucán</string>
+    <string name="tucan_asal" >Brasil</string>
+    <string name="tucan_deskripsi" >Tucán es un ave caracterizada por un pico de oso, de un color hermoso y brillante.Este pico sobresale en su cuerpo.</string>
+    //profil
+    <string name="prodi">Cursos</string>
+    <string name="teknik_informatika">Ingeniería Informática</string>
+    <string name="alamat">Dirección</string>
+    <string name="desa_sakra_selatan">Pueblo de Sakra del Sur</string>
+    <string name="ttl">Nacio</string>
+    <string name="penyenggir_7_januari_2002">Penyenggir, 7 de enero de 2002</string>
+    <string name="no_hp">Teléfono</string>
+</resources>
